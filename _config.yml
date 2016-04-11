@@ -1,0 +1,28 @@
+name: Business Ideas
+favicon: null
+layout_spectrum: 0.3462703414261341
+typography_spectrum: 0.46152463322505355
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.2528030511457473
+  lightness: 0.9732004108373076
+  saturation: 0.6907879773061723
+  rhythmicContrast: 0.04266439029015601
+purpose: []
